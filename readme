@@ -1,0 +1,3 @@
+ - Install java and apache maven.
+ - clone repository.
+ - run go.sh to build and run solution.
